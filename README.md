@@ -1,1 +1,1 @@
-
+Esse script é acionado automaticamente pelo Lambda, e ele usa o SDK da AWS (boto3) para configurar e lançar uma nova instância EC2 com os parâmetros necessários, como a imagem de máquina (AMI), tipo de instância, par de chaves para acesso SSH, e a sub-rede onde a instância será criada. A automação permite que, sempre que eu precisar, seja possível iniciar uma nova instância com todas as configurações certas, sem precisar configurar manualmente cada detalhe.”
